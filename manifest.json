@@ -1,0 +1,15 @@
+{
+    "name": "Adblocker🚫",
+    "version": "1.0.0",
+    "description": "naive adblocker",
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],        //granting permission to block requests
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "icons": {
+        "16": "icons/ad-blocker.png",
+        "48": "icons/ad-blocker.png",
+        "128": "icons/ad-blocker.png"
+    },
+    "manifest_version": 2
+}
