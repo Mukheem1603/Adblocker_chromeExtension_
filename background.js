@@ -25,4 +25,4 @@ chrome.webRequest.onBeforeRequest.addListener(
 )
 
 //you can do your research and add some more advertising services to 'toBeBlocked'
-//note: to access these web sites you need to disable the extension as the requests are blocked by our extension
+//note: to access these web sites(if you ever want to) you need to disable the extension as the requests are blocked by our extension
