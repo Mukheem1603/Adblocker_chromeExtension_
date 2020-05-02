@@ -12,6 +12,7 @@ const toBeBlocked = [
     "*://*.nbc.com/*",
     "*://*.imarticus.org/*",
     "*://*.hostinger.in/*",
+	"*://*.godaddy.in/*",
 ]
 
 chrome.webRequest.onBeforeRequest.addListener(
