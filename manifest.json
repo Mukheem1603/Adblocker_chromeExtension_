@@ -1,11 +1,14 @@
 {
-    "name": "Adblocker🚫",
+   "name": "Adblocker🚫",
     "version": "1.0.0",
     "description": "naive adblocker",
-    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],        //granting permission to block requests
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>","activeTab"],        //granting permission to block requests
     "background": {
         "scripts": ["background.js"]
     },
+    "browser_action": {
+        "default_popup": "popup.html"
+       },
     "icons": {
         "16": "icons/ad-blocker.png",
         "48": "icons/ad-blocker.png",
