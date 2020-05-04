@@ -12,4 +12,4 @@
 
  ![vid](./icons/walkthrough.gif)
 
- and *Voila!* , now you have your adblocking chrome extension 🌟
+ and *Voila!* , now you have your ad blocking chrome extension 🌟
