@@ -9,4 +9,5 @@
 - [Download](https://github.com/Mukheem1603/Adblocker_chromeExtension_/archive/master.zip) ZIP file and extract.
 - Open Chrome and type `chrome://extensions`
 - Click on `Load unpacked` and select the root folder which contains the extracted files.
-  ![vid](./icons/walkthrough.gif)
+
+   - ![vid](./icons/walkthrough.gif)
