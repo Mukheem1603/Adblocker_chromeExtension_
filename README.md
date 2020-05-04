@@ -10,4 +10,4 @@
 - Open Chrome and type `chrome://extensions`
 - Click on `Load unpacked` and select the root folder which contains the extracted files.
 
-   - ![vid](./icons/walkthrough.gif)
+ ![vid](./icons/walkthrough.gif)
