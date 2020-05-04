@@ -11,3 +11,5 @@
 - Click on `Load unpacked` and select the root folder which contains the extracted files.
 
  ![vid](./icons/walkthrough.gif)
+
+ and *Voila!* , now you have your adblocking chrome extension 🌟
