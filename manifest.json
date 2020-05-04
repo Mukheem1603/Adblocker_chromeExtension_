@@ -2,7 +2,7 @@
    "name": "Adblocker🚫",
     "version": "1.0.0",
     "description": "naive adblocker",
-    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>","activeTab"],        //granting permission to block requests
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>","activeTab"],        
     "background": {
         "scripts": ["background.js"]
     },
