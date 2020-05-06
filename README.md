@@ -13,3 +13,5 @@
  ![vid](./icons/walkthrough.gif)
 
  and *Voila!* , now you have your ad blocking chrome extension 🌟
+  
+  ![GitHub last commit](https://img.shields.io/github/last-commit/Mukheem1603/Adblocker_chromeExtension_)
